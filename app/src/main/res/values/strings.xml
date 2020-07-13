@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">espiaodocoin</string>
+    <string name="imgCoin">the flag of Brazil and Bitcoin coins</string>
+    <string name="titleBC">BitCoin Value</string>
+    <string name="BTcost">BitCoinCost</string>
+    <string name="convAmount">Converted Amount</string>
+    <string name="ConvResult">Conversion Result</string>
+    <string name="ValToConvert">Value to convert</string>
+    <string name="textConvValue">Value to converter:</string>
+    <string name="calculate">calculate</string>
+</resources>
